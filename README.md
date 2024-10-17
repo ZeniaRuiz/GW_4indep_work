@@ -1,19 +1,20 @@
 Git and GitHub for collaborative research: Independet work
 ================
-Your name
+Zenia Ruiz-Utrilla
 
-- [Project description](#project-description)
-- [Repository contents](#repository-contents)
-- [How to contribute](#how-to-contribute)
+-   [Project description](#project-description)
+-   [Repository contents](#repository-contents)
+-   [How to contribute](#how-to-contribute)
 
 ## Project description
 
-Add description here …
+This project….
 
 ## Repository contents
 
-Describe the contents and their organization here …
+The content is organized by folders with the code, datase and the
+figures
 
 ## How to contribute
 
-Describe how would collaborators to contribute to this repository …
+You can fork and clone
